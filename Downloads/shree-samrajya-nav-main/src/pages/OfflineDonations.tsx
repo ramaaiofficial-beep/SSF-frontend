@@ -128,8 +128,8 @@ const OfflineDonations = () => {
                 <div className="space-y-3">
                   <div className="flex items-center gap-3">
                     <Phone className="h-5 w-5 text-primary" />
-                    <a href="tel:+918179178919" className="text-foreground hover:text-primary transition-colors">
-                      +91-8179178919
+                    <a href="tel:+91 781 302 1766" className="text-foreground hover:text-primary transition-colors">
+                      +91 781 302 1766
                     </a>
                   </div>
                   <div className="flex items-center gap-3">
