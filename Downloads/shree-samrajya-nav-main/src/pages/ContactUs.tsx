@@ -96,13 +96,13 @@ const ContactUs = () => {
                       <div className="flex items-center gap-2">
                         <Phone className="h-4 w-4 text-muted-foreground" />
                         <a href="tel:+918179178919" className="text-muted-foreground hover:text-primary transition-colors">
-                          Mobile: +91 817 917 8919
+                          Mobile: +91 781 302 1766
                         </a>
                       </div>
                       <div className="flex items-center gap-2">
                         <Phone className="h-4 w-4 text-muted-foreground" />
                         <a href="https://wa.me/918179178919" className="text-muted-foreground hover:text-primary transition-colors">
-                          WhatsApp: +91 817 917 8919
+                          WhatsApp: +91 781 302 1766
                         </a>
                       </div>
                     </div>
